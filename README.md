@@ -25,12 +25,21 @@ Parkinson’s disease)and control gene(patient who does not have Parkinson’s d
     
 **Selecting a gene from each cluster we got 10 genes with ID-Ref:**
     1. 203540_at
+    
     2. 1558919_a_at
+    
     3. 210316_at
+    
     4. 1554663_a_at
+    
     5. 202124_s_at
+    
     6. 209283_at
+    
     7. 208329_at
+    
     8. 207783_x_at
+    
     9. 209123_at
+    
     10. 209118_s_at
