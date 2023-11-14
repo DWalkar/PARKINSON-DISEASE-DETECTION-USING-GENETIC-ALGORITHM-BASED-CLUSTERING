@@ -23,7 +23,7 @@
     We took values from 2 to √100 ~10
     We found the fittest chromosomes when k=10
     
-![image](https://github.com/DWalkar/PD/assets/132969788/2e819a77-1272-4ad2-ba13-7715793c6cca)
+![image](https://github.com/DWalkar/PARKINSON-DISEASE-DETECTION-USING-GENETIC-ALGORITHM-BASED-CLUSTERING/assets/132969788/23618357-3e88-4e1e-aeca-d2de69ea84e0)
 
 
     
