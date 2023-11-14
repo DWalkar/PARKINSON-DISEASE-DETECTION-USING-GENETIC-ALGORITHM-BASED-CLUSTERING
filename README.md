@@ -11,7 +11,7 @@
       We used K-Means Clustering Algorithm combined with Genetic algorithm for Clustering. With the help of clustering we can identify the gens which show similar response to the disease.
       Here our motivation is to identify the group of genes which are responsible for Parkinson’s disease and find out the difference between effected (genes of the patient who have
 Parkinson’s disease)and control gene(patient who does not have Parkinson’s disease)
-
+ 
 
 **Results**
 
