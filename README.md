@@ -22,9 +22,8 @@ Parkinson’s disease)and control gene(patient who does not have Parkinson’s d
 ![image](https://github.com/DWalkar/PD/assets/132969788/2e819a77-1272-4ad2-ba13-7715793c6cca)
 
 
-
     
-    Selecting a gene from each cluster we got 10 genes with ID-Ref:
+**Selecting a gene from each cluster we got 10 genes with ID-Ref:**
     1. 203540_at
     2. 1558919_a_at
     3. 210316_at
